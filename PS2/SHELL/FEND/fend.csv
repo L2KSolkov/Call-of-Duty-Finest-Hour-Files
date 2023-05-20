@@ -1,0 +1,492 @@
+language,English,German,French,Italian,Spanish
+$1_1a,Not One Step Back,Kein Schritt zurück,La reconquête,Nessun passo indietro,Ni un paso atrás
+$1_1b,The Flag Must Fall,Die Flagge muss weg,Ci-gît l'étendard,La bandiera calata,La bandera caerá
+$1_2a,Dead in Her Sights,Den Tod vor Augen,La grande faucheuse ,Con la morte nel mirino,En su punto de mira
+$1_2b,Defend the Factory,Fabrikverteidigung,La défense de l'usine,Difesa della fabbrica,Defender la fábrica
+$1_3a,Breakdown,Zusammenbruch,Char en détresse,Avaria,Avería
+$1_3b,Into Red Square,Der Rote Platz,Sur la Place Rouge,Nella Piazza Rossa,A la Plaza Roja
+$1_5a,Op. Little Saturn,Op. Kleiner Saturn,Petite Saturne,Operazione Saturnino,Op. Pequeño Saturno
+$1_5b,Airfield Ambush,Flugfeld-Hinterhalt,Embuscade,Agguato al campo,Emboscada en aeró.
+$2_1a,Mission: Matmata,Mission: Matmata,Mission : Matmata,Missione Matmata,Misión: Matmata
+$2_1b,Depot Saboteurs,Lager-Saboteure,Sabotage,Sabotatori di depositi,Sab. de depositos
+$2_2a,A Desert Ride,Ein Wüstenritt,Tempête de sable,Una corsa nel deserto,V. por desierto
+$2_2b,Raiding the Fortress,Fort-Überfall,La forteresse,Assalto alla fortezza,Asalto a fortaleza
+$3_1a,First City to Fall,Die erste Stadt fällt,La première brèche,Una città in bilico,La primera en caer
+$3_1b,Underground Passage,Untergrund-Passage,Passage souterrain,Passaggio sotterraneo,Pasaje subterráneo
+$3_1c,Surrender at Aachen,Aufgabe bei Aachen,La reddition d'Aix,La resa di Aachen,Aquisgrán se rinde
+$3_3a,Come Out Fighting,Kommt raus & kämpft,Lutte pour Tillet,Picchiate duro,A la carga
+$3_5a,Road to Remagen,Straße nach Remagen,Vers Remagen ,La strada per Remagen,Camino a Remagen
+$3_5b,Last Bridge Standing,Die letzte Brücke,Le dernier pont,L'ultimo ponte,El último puente
+$3_5c,Into the Heartland,Im Feindesland,Au coeur de l'enfer,Nel cuore del nemico,En la zona central
+$accept,Accept,OK,OK,Accetta,Aceptar
+$alliesLost,Allies Lost:,Verlorene Verbündete:,Pertes alliées :,Alleati persi:,Aliados perdidos:
+$altFire,Alt Fire,Alt. Feuer,Tir alt.,Fuoco alternativo,Disparo alt.
+$altFireTank,Alt Fire (Tank),Alt. Feuer (Panzer),Tir alt. (blindé),Fuoco alt (carro),Disparo alt. (Tanque)
+$aimAssist,Aim Assist,Zielhilfe,Aide visée,Mira assistita,Ayuda punt.
+$animation,   Animation Reel,     Animationen,      Animation,Ciclo di animazione, Rollo de animación
+$artwork,   Artwork,   Grafik,Graphismes,Illustrazioni,Ilustraciones
+$easternFront,   Eastern   Front,       Ostfront,     Front   Est,  Fronte  Orientale,  Frente Oriental
+$front,Front,Front,Front,Fronte,Frente
+$northAfrica,     North   Africa,       Nordafrika,   Afrique   du Nord,       Nord  Africa,  Norte de   África
+$africa,Africa,Afrika,Afrique,Africa,África
+$westernFront,   Western  Front,      Westfront,    Front   Ouest,Fronte Occidentale, Frente Occidental
+$back,Back,Zurück,Retour,Indietro,Atrás
+$behindTheScenes,Behind the Scenes,Hinter den Kulissen,Dans les coulisses du jeu,Dietro le quinte,Tras las cámaras
+$behindTheScenesCaps,BEHIND THE SCENES,HINTER DEN KULISSEN,DANS LES COULISSES DU JEU,DIETRO LE QUINTE,TRAS LAS CÁMARAS
+$buildingSpark,Building Spark,Sparks Gebäude,Bâtiment Spark,Costruire Spark,Edificio de Spark
+$screenCalibration,Screen Calibration,Bildanpassung,Calibrage de l'écran,Regolazione schermo,Pantalla de calibración
+$calibrationCaps,   CALIBRATION,BILDANPASSUNG,   CALIBRAGE,REGOLAZIONE SCHERMO,CALIBRACIÓN
+
+$calibration1,Please adjust your television screen until,Die Farbbalken unter der roten Linie,Ajustez l'écran de votre téléviseur jusqu'à,Regola lo schermo televisivo in modo che,Ajusta la pantalla de tu televisor hasta que
+$calibration2,the color bars beneath the red line are,dürfen kaum noch zu erkennen sein.,ce que les barres de couleur sous la,le barre sotto la linea rossa risultino,las barras de color bajo la línea roja
+$calibration3,barely visible.,Dann ist die Grafik optimal eingestellt.,ligne rouge soient à peine visibles.,appena visibili.,no sean apenas visibles.
+
+$change,Change,Ändern,Changer,Cambia,Cambiar
+$changeAct,Change Act,Akt wechseln,Changer acte,Cambia atto,Cambiar acto
+$changeConfig,Change Config,Konfig. ändern,Changer config,Cambia config,Cambiar config
+$changeLevel,Change Level,Level wechseln,Changer niveau,Cambia livello,Cambiar nivel
+$cheat1,Big Heads,Große Köpfe,Grosses têtes,Big Heads,Cabezas grandes
+$cheat2,Ricochet,Supersoldat,Ricochet,Ricochet,Rebote (jugador)
+$cheat3,Head Shots,Volltreffer,En pleine tête,Head Shots,Bajas disp. cabeza
+$cheat4,Ricochet (All),Supersoldat (alle),Ricochet (tous),Ricochet (All),Rebote (todos)
+$cheat5,Shrink Shot,Schrumpfschuss,Tir rapetissant,Shrinking Soldiers,Soldados reducidos
+$cheat6,Dead Eye,Meisterschütze,Dans le mille,One Shot Kills,Bajas de un disp.
+$cheat7,Big N' Small,Klein & Groß,Petit et grand,Big N' Small,Grande y pequeño
+$cheat8,Cheat 1 (don't translate),Cheat 8,Cheat 1,Cheat 1,Cheat 1 (don't translate)
+$cheat9,Cheat 1 (don't translate),Cheat 9,Cheat 1,Cheat 1,Cheat 1 (don't translate)
+$cheats,     Cheats,     Cheats,      Codes,     Trucchi,     Cheats
+$cheatsCaps,      CHEATS,      CHEATS,CODES DE TRICHE,      TRUCCHI,      CHEATS
+$commando,Commando,Kommando,Commando,Commando,Comando
+$commandoCaps,COMMANDO,KOMMANDO,COMMANDO,COMMANDO, COMANDO
+$continueGame,Continue Game,Spiel fortsetzen,Continuer partie,Riprendi la partita,Continuar partida
+$controls,Controls,Steuerung,Commandes,Comandi,Controles
+$createNew,New,Neu,Nouv.,Nuovo,Nuevo
+$createProfileCaps,CREATE PROFILE,PROFIL ERSTELLEN,CRÉER PROFIL,CREA PROFILO,CREAR PERFIL
+$credits,    Credits,    Credits,    Crédits,Riconoscimenti,   Créditos
+$delete,Delete,Rücktaste,Suppr.,Elimina,Borrar
+$difficulty,Difficulty,Schwierigkeit,Difficulté,Difficoltà,Dificultad
+$dishonorable,Dishonorable,Unehrenhaft,Sans honneur,Disonorevole,Deshonroso
+$dolby,Dolby ProLogic®II,Dolby ProLogic®II,Dolby ProLogic®II,Dolby ProLogic®II,Dolby ProLogic®II
+$dossier,Dossier,Dossier,Dossier,Dossier,Dossier
+$dossiers,Dossiers,Dossiers,Dossiers,Dossier,Dossieres
+$dossiersCaps,DOSSIERS,DOSSIERS,DOSSIERS,DOSSIER,DOSSIERS
+$teaser,Teaser,Teaser,Bande-annonce,Trailer,Tramposo
+$easy,Easy,Leicht,Faible,Bassa,Fácil
+$enemiesEliminated,Enemies Eliminated:,Ausgeschaltete Gegner:,Ennemis éliminés :,Nemici eliminati:,Enemigos eliminados:
+$enterCheat,Enter Cheat,Cheat eingeben,Saisir code,Inserisci trucco,Introducir cheat
+$enterNew,Enter New,Neu eingeben,Saisir nouveau,Inserisci nuovo,Escribir nuevo
+$extras, Extras, Extras,  Bonus,  Extra, Extras
+$extrasCaps,EXTRAS,EXTRAS,BONUS,EXTRA,EXTRAS
+$empty,Empty,Leer,Vide,Vuoto,Vacío
+$faster,Faster,Schneller,Plus rapide,Veloce,Más rápido
+$friendlyFire,Friendly Fire,Teambeschuss,Feu ami,Fuoco amico,Fuego amigo
+$gallery,Gallery,Galerie,Galerie,Galleria,Galería
+$galleryCaps,GALLERY,GALERIE,GALERIE,GALLERIA,GALERÍA
+$hard,Hard,Schwer,Elevée,Alta,Difícil
+$healthPacksUsed,Health Packs Used:,Benutzte Erste-Hilfe-Pakete:,Trousses de soins utilisées :,Kit medici usati:,Botiquines usados:
+$hintMessages,Hint Messages,Tipp-Nachrichten,Messages d'aide,Messaggi di indizio,Mensajes de ayuda
+$hitAccuracy,Hit Accuracy:,Treffergenauigkeit:,Précision de tir :,Precisione:,Precisión de disparo:
+$hitsTaken,Hits Taken:,Eingesteckte Treffer:,Tirs essuyés :,Colpi subiti:,Disparos recibidos:
+$hybrid,Hybrid,Hybrid,Hybride,Ibrido,Híbrido
+$hybridCaps,   HYBRID,  HYBRID,HYBRIDE,   IBRIDO,  HÍBRIDO
+$iconOff,Icon Off,Symbol aus,Sans icone,Icona no,No
+$iconOn,Icon On,Symbol ein,Avec icone,Icona sì,Sì
+$invertYaxis,Invert Aim,Zielen umkehren,Visée inversée,Inverti mira,Invertir puntería
+$language,Language,Sprache,Langue,Lingua,Idioma
+$languageCaps,LANGUAGE,SPRACHE,LANGUE,LINGUA,IDIOMA
+$lefty,Lefty,Linkshänder,Gaucher,Mancino,Zurdo
+$leftyCaps,       LEFTY,LINKSHÄNDER,     GAUCHER,    MANCINO,      ZURDO
+$levelCompleteCaps,LEVEL COMPLETE,LEVEL ABGESCHLOSSEN,NIVEAU TERMINE,LIVELLO COMPLETATO,NIVEL COMPLETADO
+$lifeAtSpark,Life at Spark,Leben bei Spark,Le quotidien chez Spark,La vita in Spark,Vivir en Spark
+$load,Load,Laden,Charger,Carica,Cargar
+$loadGame,Load Game,Spiel laden,Charger partie,Carica partita,Cargar partida
+$loadMission,Load Mission,Mission laden,Charger mission,Carica missione,Cargar misión
+$loadProfile,Load Profile,Profil Laden,Charger Profil,Carica profilo,Cargar perfil
+$loadProfileCaps,LOAD PROFILE,PROFIL LADEN,CHARGER PROFIL,CARICA PROFILO,CARGAR PERFIL
+$locked,   Locked,  Gesperrt,Verrouillé(e),   Bloccato,  Bloqueado
+$makingOf1,    Making Of 1,    Making Of 1,    Making Of 1, Realizzazione 1,   Cómo se hizo 1
+$makingOf2,    Making Of 2,    Making Of 2,    Making Of 2, Realizzazione 2,   Cómo se hizo 2
+$makingOf3,    Making Of 3,    Making Of 3,    Making Of 3, Realizzazione 3,   Cómo se hizo 3
+$medium,Medium,Mittel,Moyenne,Media,Media
+$missionDuration,Mission Duration:,Missionsdauer:,Durée de la mission :,Durata missione:,Duración de la misión:
+$mono,Mono,Mono,Mono,Mono,Mono
+$more,More,Mehr,Plus,Altro,Más
+$movies,Movies,Filme,Cinématiques,Filmati,Escenas
+$multiplayer,   Multiplayer,   Mehrspieler,   Multijoueur,Multigiocatore,  Multijugador
+$multiplayerCaps,MULTIPLAYER,MEHRSPIELER,MULTIJOUEUR,MULTIGIOCATORE,MULTIJUGADOR
+$music,Music,Musik,Musique,Musica,Música
+$navigate,Navigate,Navigieren,Parcourir,Naviga,Navegar
+$newGame,New Game,Neues Spiel,Nouvelle partie,Nuova partita,Nueva partida
+$newGameCaps,NEW GAME,NEUES SPIEL,NOUVELLE PARTIE,NUOVA PARTITA,NUEVA PARTIDA
+$nextPrevious,Next / Previous,Weiter / Zurück,Suivant / Précéd.,Avanti / Indietro,Sig. / Ant.
+$no,No,Nein,Non,No,No
+$normal,Normal,Normal,Normale,Normale,Normal
+$off,Off,Aus,Sans,No,Off
+$on,On,Ein,Avec,Sì,On
+$OPMmovie1,Heeding the Call ,Dem Ruf folgen,Vidéo 1,Chiamata alle armi,Acudiendo a la llamada
+$OPMmovie2,Sounds of War,Kriegsgeräusche,Vidéo 2,Echi di guerra,Sonidos de guerra
+$OPMmovie3,Epic by Design,Episches Design,Vidéo 3,Destino epico,Épica por Design
+$OPMmovie4,Many Who Fought,Viele Kämpften,Les combattants,La lotta di molti,Muchos que lucharon
+$OPMmovie5,Voices of War ,Stimmen des Krieges,Les voix de la guerre,Le voci della guerra,Voces de guerra
+$options, Options,Optionen, Options, Opzioni,Opciones
+$optionsCaps,OPTIONS,OPTIONEN,OPTIONS,OPZIONI,OPCIONES
+$page,Page,Seite,Page,Pagina,Página
+$performanceRating,Performance Rating:,Leistung:,Classement des performances :,Prestazioni:,Índice de rendimiento:
+$play,Play,Weiter,Jouer,Vedi,Jugar
+$playOnline,Play Online,Online spielen,Jouer en ligne,Gioca online,Jugar online
+$playLAN,Play LAN,LAN spielen,Jouer en réseau,GIOCA VIA LAN,Jugar en red local
+$pauseMenuCaps,PAUSE MENU,PAUSE-MENÜ,MENU PAUSE,MENU DI PAUSA,MENÚ PAUSA
+$playerStats,Player Stats,Spielerstatistik,Stats joueur,Statistiche giocatore,ESTADÍSTICAS DEL JUGADOR
+$playerStatsCaps,PLAYER STATS,SPIELERSTATISTIK,STATS JOUEUR,STATISTICHE GIOCATORE,ESTADÍSTICAS DEL JUGADOR
+$preferredWeapon,Preferred Weapon:,Lieblingswaffe:,Arme favorite :,Arma preferita:,Arma preferida:
+$pressStart,       Press START button,     START-Taste drücken,Appuyez sur la touche START ,     Premi il tasto START,      Pulsa el botón START
+$pressStartNGC,           Press START,          START drücken,Appuyez sur le bouton START,           Premi START,      Pulsa START/PAUSE
+$pressStartXbox,           Press START,          START drücken,Appuyez sur la touche START,           Premi START,        Presionar START
+$profile1,Johnny Bravo,Johnny Bravo,Johnny Bravo,Johnny Bravo,Johnny Bravo
+$profile2,Esmerelda,Esmeralda,Esmerelda,Esmeralda,Esmeralda
+$profiles,Profiles,Profile,Profils,Profili,Perfiles
+$profilesCaps,PROFILES,  PROFILE,  PROFILS,  PROFILI,PERFILES
+$quickshooter,Quickshooter,Schnellfeuerer,Tireur d'élite,Tiratore rapido,Gatillo rápido
+$quickshooterCaps,   QUICKSHOOTER,   SCHELLFEUERER,    TIREUR D'ELITE,TIRATORE RAPIDO,   GATILLO RÁPIDO
+$quit,Quit,Ende,Quitter,Abbandona,Salir
+$recruit,New Recruit,Neuer Rekrut,Nouvelle recrue,Nuova recluta,Recluta novato
+$reset,Reset,Stand.,Rétab.,Azzera,Reinicio
+$save,Save,Speichern,Sauvegarder,Salva,Guardar
+$saveProfile,Save Profile,Profil speichern,Sauvegarder profil,Salva profilo,Guardar perfil
+$screenCalibrationCaps,  SCREEN CALIBRATION,    BILDANPASSUNG, CALIBRAGE DE L'ECRAN,CALIBRATURA SCHERMO,PANTALLA DE CALIBRACIÓN
+$seasonedVet,Seasoned Vet,Veteran,Vétéran,Veterano,Veterano endurecido
+$selectProfileCaps,SELECT PROFILE,PROFIL WÄHLEN,SELECTIONNER PROFIL,SCEGLI PROFILO,SELECCIONAR PERFIL
+$shotsFired,Shots Fired:,Schüsse:,Coups tirés :,Colpi sparati:,Disparos realizados:
+$showObjectives,Show Objectives,Ziele zeigen,Voir objectifs,Mostra obiettivi,Mostrar objetivos
+$singlePlayer,    Single Player,    Einzelspieler,          Solo,Giocatore singolo,      Un jugador
+$slower,Slower,Langsamer,Plus lente,Lenta,Más lento
+$sound,Sound,Sound,Son,Sonoro,Sonido
+$standard,Standard,Standard,Standard,Standard,Estándar
+$standardCaps, STANDARD, STANDARD, STANDARD, STANDARD,ESTÁNDAR
+$stereo,Stereo,Stereo,Stéréo,Stereo,Estéreo
+$storyboards,Storyboards,Storyboards,Storyboards,Storyboard,Storyboards
+$subtitles,Subtitles,Untertitel,Sous-Titres,Sottotitoli,Subtítulos
+$supersoldier,Super-Soldier,Super-Soldat,Super soldat,Super soldato,Supersoldado
+$tank,(Tank),(Panzer),(Blindé),(Carro armato),(Tanque)
+$toggle,Toggle,Umschalten,Alterner,Cambia,Modifica
+$turnLookSpeed,Turn/Look Speed,Dreh-/Blickgeschw.,Vitesse Rot./Vue,Sensibilità visuale,Vel. Giro/Vista
+$unlockables,Unlockables,Extras,A débloquer,Sbloccabili,Desbloqueables
+$vibration,Vibration,Vibration,Vibration,Vibrazione,Vibración
+$view,View,Zeigen,Voir,Vedi,Ver
+$yes,Yes,Ja,Oui,Sì,Sí
+$a,a,a,a,a,a
+$A,A,A,A,A,A
+$b,b,b,b,b,b
+$B,B,B,B,B,B
+$c,c,c,c,c,c
+$C,C,C,C,C,C
+$d,d,d,d,d,d
+$D,D,D,D,D,D
+$e,e,e,e,e,e
+$E,E,E,E,E,E
+$f,f,f,f,f,f
+$F,F,F,F,F,F
+$g,g,g,g,g,g
+$G,G,G,G,G,G
+$h,h,h,h,h,h
+$H,H,H,H,H,H
+$i,i,i,i,i,i
+$I,I,I,I,I,I
+$j,j,j,j,j,j
+$J,J,J,J,J,J
+$k,k,k,k,k,k
+$K,K,K,K,K,K
+$l,l,l,l,l,l
+$L,L,L,L,L,L
+$m,m,m,m,m,m
+$M,M,M,M,M,M
+$n,n,n,n,n,n
+$N,N,N,N,N,N
+$o,o,o,o,o,o
+$O,O,O,O,O,O
+$p,p,p,p,p,p
+$P,P,P,P,P,P
+$q,q,q,q,q,q
+$Q,Q,Q,Q,Q,Q
+$r,r,r,r,r,r
+$R,R,R,R,R,R
+$s,s,s,s,s,s
+$S,S,S,S,S,S
+$t,t,t,t,t,t
+$T,T,T,T,T,T
+$u,u,u,u,u,u
+$U,U,U,U,U,U
+$v,v,v,v,v,v
+$V,V,V,V,V,V
+$w,w,w,w,w,w
+$W,W,W,W,W,W
+$x,x,x,x,x,x
+$X,X,X,X,X,X
+$y,y,y,y,y,y
+$Y,Y,Y,Y,Y,Y
+$z,z,z,z,z,z
+$Z,Z,Z,Z,Z,Z
+$space,Space,Leertaste,Espace,Spazio,Espacio
+$delete,Delete,Rücktaste,Suppr.,Elimina,Borrar
+$shift,Shift,Umschalten,Maj.,Maiusc,Mayúsculas
+$done,Done,OK,Terminé,Fatto,Hecho
+$0 ,0,0,0,0,0
+$1 ,1,1,1,1,1
+$2 ,2,2,2,2,2
+$3 ,3,3,3,3,3
+$4 ,4,4,4,4,4
+$5 ,5,5,5,5,5
+$6 ,6,6,6,6,6
+$7 ,7,7,7,7,7
+$8 ,8,8,8,8,8
+$9 ,9,9,9,9,9
+$action,Action,Aktion,Action,Azione,Acción
+$aim,Aim,Zielen,Viser,Mira,Apuntar
+$melee,Melee,Nahkampf,Mêlée,Mischia,Cuerpo a cuerpo
+$centerView,Center Turret,Geschütz zentrieren,Centrer tourelle,Centra torretta,Centrar torreta
+$cycle,Cycle,Wechseln,Parcourir,Cambia,Cambiar
+$cycleGrenade,Cycle Grenade,Granate wechs.,Grenades,Cambia granata,Cambiar granada
+$cycleItem,Cycle Item,Objekt wechseln,Objets,Cambia oggetto,Cambiar de objeto
+$cycleThrownWeapon,Cycle Thrown Weapon,Wurfwaffe wechseln,Armes lancées,Cambia arma da lancio,Cambiar arma arrojadiza
+$cycleWeapon,Cycle Weapon,Waffe wechseln,Armes,Cambia arma,Camb. arma
+$down,Down,Unten,Bas,Giù,Abajo
+$fire,Fire,Feuer,Tirer,Spara,Disparar
+$grenade,Grenade,Granate,Grenade,Granata,Granada
+$healthPack,Health Pack,Erste Hilfe,Trousse soins,Kit medico,Botiquín
+$item,Item,Objekt,Objet,Oggetto,Objeto
+$jump,Jump,Springen,Sauter,Salta,Saltar
+$L3Button,L3 Button,L3-Taste,Touche L3,Tasto L3,Botón L3
+$leanLeft,Lean L (Aim),L lehnen (Zielen),Pencher G (viser),Sporgiti sx,Inclinarse izq. (Ap.)
+$leanRight,Lean R (Aim),R lehnen (Zielen),Pencher D (viser),Sporgiti dx,Inclinarse der. (Ap.)
+$lean,(Press) Lean,Lehnen (drücken),(App.) Se pencher,(Premuto) Sporgiti,(Pulsar) Inclinarse
+$lookTurn,Look / Turn,Blick/Drehen,Regarder/Tourner,Guarda/Girati,Mirar/Girar
+$lookStrafe,Look / Strafe,Blick/Seitlich,Regard./Pas lat.,Guarda/Spostati,Mirar/Desp. lateral
+$moveStrafe,Move / Strafe,Bewegen/Seitlich,Avancer/Pas lat.,Muoviti/Spostati,Mover/Desp. lat.
+$moveTurn,Move / Turn,Bewegen/Drehen,Avancer/Tourner,Muoviti/Girati,Moverse/Girar
+$pause,Pause,Pause,Pause,Pausa,Pausa
+$posture,Posture,Haltung,Posture,Posizione,Postura
+$postureDown,Posture Down,Haltung runter,Posture basse,Posizione giù,Bajar de postura
+$postureUp,Posture Up,Haltung hoch,Posture haute,Posizione su,Subir de postura
+$R3Button,R3 Button,R3-Taste,Touche R3,Tasto R3,Botón R3
+$reload,Reload,Nachladen,Recharger,Ricarica,Recargar
+$select,Select,Wählen,Sélect.,Seleziona,Elegir
+$showHelp,Show Help,Hilfe anzeigen,Avec aide,Mostra aiuti,Mostrar ayuda
+$showHUD,Show HUD,HUD anzeigen,Afficher l'ATH,Mostra interfaccia,Ver HUD
+$throw,Throw,Werfen,Lancer,Lancia,Lanzar
+$throwWeapon,Throw Weapon,Wurfwaffe,Lancer arme,Lancia arma,Arrojar arma
+$throwGrenade,Throw Grenade,Granate werfen,Lancer grenade,Lancia granata,Arrojar granada
+$useHealthPack,Use Health Pack,Erste Hilfe benutzen,Utiliser trousse,Usa kit medico,Usar botiquín
+$alliesLost,Allies Lost:,Verlorene Verbündete:,Pertes alliées :,Alleati persi:,Aliados perdidos:
+$up,Up / Jump,Oben/Sprung,Haut / Sauter,Su/Salto,Arriba/Saltar
+$use,Use,Benutzen,Utiliser,Usa,Usar
+$useItem,Use Item,Objekt benutzen,Utiliser objet,Usa oggetto,Usar objeto
+$weapon,Weapon,Waffe,Arme,Arma,Arma
+$PS2_MCNoCard,No memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.  Finest Hour requires ${SaveGameSize}KB of free space to save data.  Please insert a memory card (8MB) (for PlayStation®2) containing sufficient space or you will not be able to save game data.,"Keine Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 eingelegt. Zum Speichern der Finest Hour-Spieldaten legen Sie bitte eine Memory Card (8MB) (für PlayStation®2) mit mindestens ${SaveGameSize} KB freiem Speicherplatz ein, da Sie sonst das Spiel nicht speichern können.","Espace insuffisant sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1. Call of Duty: Le jour de gloire nécessite ${SaveGameSize} KB d’espace libre pour sauvegarder les données. Insérer une memory card (8MB) (pour PlayStation®2) avec assez d’espace libre, ou il sera impossible de sauvegarder les données.",Nessuna memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1. L'ora degli Eroi richiede ${SaveGameSize}KB di spazio libero per salvare i dati. Inserire una memory card (8MB) (per PlayStation®2) con spazio libero sufficiente oppure sarà impossibile salvare i dati di gioco.,No hay memory card (8MB) (para PlayStation®2) en la ranura para MEMORY CARD 1. Finest Hour necesita ${SaveGameSize} KB de espacio libre para guardar datos. Inserta una memory card (8MB) (para PlayStation®2) con suficiente espacio o no podrás guardar datos del juego.
+$PS2_ControllerSetupInfo,"To join the game, connect a DUALSHOCK®2 analog controller and press $Accept.  To leave the game, press $Accept on any active DUALSHOCK®2 analog controller.",Zum Mitspielen schließen Sie einen Analog Controller (DUALSHOCK®2) an und drücken Sie $Accept. Zum Verlassen des Spiels drücken Sie $Accept auf einem angeschlossenen Analog Controller (DUALSHOCK®2).,"Pour rejoindre la partie, connecter une manette analogique (DUALSHOCK®2) et appuyer sur $Accept. Pour quitter la partie, appuyer sur $Accept pour toutes les manettes analogiques (DUALSHOCK®2) actives.","Per partecipare a una partita, collegare un controller analogico (DUALSHOCK®2) e premere $Accept. Per abbandonare la partita, premere $Accept su qualunque controller analogico (DUALSHOCK®2) attivo.","Para unirte a la partida, conecta un mando analógico (DUALSHOCK®2) y pulsa $Accept. Para salir de la partida, pulsa $Accept en cualquier mando analógico (DUALSHOCK®2) activo."
+$PS2_ControllerText,Controller Port 1-A,Controller-Anschluss 1-A,Port de manette 1-A,Ingresso controller 1-A,Puerto de mando 1-A
+$PS2_CorruptedText,Corrupt Save,Fehlerhafter Spielstand,Sauvegarde corrompue,Salvataggio danneggiato,Datos guardados dañados
+$PS2_MCAutosaveDisabled,Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 was removed.  Autosave has been disabled.  Manually save your game to re-enable autosave.,"Die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 wurde entfernt. Das automatische Speichern wurde deaktiviert. Speichern Sie das Spiel manuell, um das automatische Speichern wieder zu aktivieren.",La memory card (8MB) (pour PlayStation®2) insérée dans la fente pour MEMORY CARD N° 1 a été retirée. Le système d’Auto-sauvegarde a été désactivé. Sauvegarder manuellement pour réactiver l'Auto-sauvegarde.,La memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 è stata rimossa. Autosalvataggio disabilitato. Salvare manualmente la partita per riabilitare l'Autosalvataggio.,La memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 ha sido extraída. El autoguardado ha sido desactivado. Guarda manualmente la partida para reactivar el autoguardado.
+$PS2_MCAutosaveFailed,Autosave failed!  Autosave has been disabled.  Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and manually save your game to re-enable autosave.,"Automatisches Speichern gescheitert!  Das automatische Speichern wurde deaktiviert. Überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und speichern Sie das Spiel manuell, um das automatische Speichern wieder zu aktivieren.",Echec de l'Auto-sauvegarde ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et sauvegarder manuellement pour réactiver l'Auto-sauvegarde.,Autosalvataggio fallito! Autosalvataggio disabilitato. Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e salvare manualmente la partita per riabilitare l'Autosalvataggio.,¡Error al autoguardar! El autoguardado ha sido desactivado. Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 y guarda manualmente la partida para reactivar el autoguardado.
+$PS2_MCAutosaveReconfirm,The memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 has been removed since last save. ,Die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 wurde seit dem letzten Speichern entfernt.,La memory card (8MB) (pour PlayStation®2) insérée dans la fente pour MEMORY CARD N° 1 a été retirée depuis la dernière sauvegarde.,La memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 è stata rimossa dall'ultimo salvataggio. ,La memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 ha sido extraída desde la última vez que se guardaron datos.
+$PS2_MCAutosaving,"Autosaving data. Do not remove memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1, controller, or reset/switch off console.",Automatische Datenspeicherung. Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Auto-sauvegarde en cours. Ne pas retirer la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 ou la manette, ni redémarrer ou éteindre la console.",Autosalvataggio dei dati! Non rimuovere la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 né il controller e non resettare/spegnere la console.,Autoguardando datos. No extraigas la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 ni el mando. No reinicies ni apagues la consola.
+$PS2_MCCancel,Cancel,Abbrechen,Annuler,Annulla,Cancelar
+$PS2_MCCardChanged,The memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 has changed.,Die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 wurde gewechselt.,La memory card (8MB) (pour PlayStation®2) insérée dans la fente pour MEMORY CARD N° 1 a été changée.,La memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 è cambiata.,La memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 ha cambiado.
+$PS2_MCCardRemoved,No memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.,Keine Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1.,Pas de memory card (8MB) (pour PlayStation®2) insérée dans la fente pour MEMORY CARD N° 1.,Nessuna memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1.,No hay memory card (8MB) (para PlayStation®2) en la ranura para MEMORY CARD 1.
+$PS2_MCCheckFailed,Check failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.,Überprüfen gescheitert! Überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal.,Echec de la vérification ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer.,Controllo fallito! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare.,¡Error al comprobar! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo.
+$PS2_MCCheckFailedContinue,Check failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.  Continue without saving?,Überprüfen gescheitert! Überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal. Ohne Speichern fortfahren?,Echec de la vérification ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer. Continuer sans sauvegarder ?,Controllo fallito! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare. Continuare senza salvare?,¡Error al comprobar! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo. ¿Continuar sin guardar?
+$PS2_MCChecking,"Checking memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1. Do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off the console.",Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 wird überprüft. Memory Card (8MB) (für PlayStation®2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Vérification de la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 en cours. Ne pas retirer la memory card (8MB) (pour PlayStation®2) ou la manette, ni redémarrer ou éteindre la console.",Controllo della memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 in corso... Non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.,Comprobando la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1. No extraigas la memory card ni el mando. No reinicies ni apagues la consola.
+$PS2_MCConfirmFormat,Are you sure you wish to format memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1?,"Sind Sie sicher, dass Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 formatieren möchten?",Formater la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 ?,Formattare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1?,¿Seguro que quieres formatear la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1?
+$PS2_MCContinue,Continue,Fortsetzen,Continuer,Continua,Continuar
+$PS2_MCContinueWOSaving,Continue,Fortsetzen,Continuer,Continua,Continuar
+$PS2_MCCorrupted,Finest Hour save data on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 is corrupted!,Die Finest Hour-Daten auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 sind fehlerhaft.,Les données sauvegardées de Call of Duty: Le jour de gloire sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 sont corrompues !,I dati di L'ora degli Eroi sulla memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 sono danneggiati!,¡Los datos guardados de Finest Hour en la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 están dañados!
+$PS2_MCCorruptedNew,Finest Hour save data on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 is corrupted!  Would you like to create a new Finest Hour save file?,Die Finest Hour-Daten auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 sind fehlerhaft. Möchten Sie eine Finest Hour-Datei erstellen?,Les données sauvegardées de Call of Duty: Le jour de gloire sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 sont corrompues ! Créer un fichier de sauvegarde de Call of Duty: Le jour de gloire ?,I dati di L'ora degli Eroi sulla memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 sono danneggiati! Creare un nuovo file di salvataggio per L'ora degli Eroi?,¡Los datos guardados de Finest Hour en la memory card (8MB) (para PlayStation®2) de la MEMORY CARD 1 están dañados! ¿Quieres crear un nuevo archivo guardado de Finest Hour?
+$PS2_MCCreateFailed,Creation failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.,Erstellen gescheitert! Überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal.,Echec de la création ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer.,Creazione fallita! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare.,¡Error al crear! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo.
+$PS2_MCCreateFailedContinue,Creation failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.  Continue without saving?,Erstellen gescheitert! Überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal. Ohne Speichern fortfahren?,Echec de la création ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer. Continuer sans sauvegarder ?,Creazione fallita! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare. Continuare senza salvare?,¡Error al crear! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo. ¿Continuar sin guardar?
+$PS2_MCCreateOK,Creation successful.,Erstellen erfolgreich.,Création réussie.,Creazione completata.,Éxito al crear.
+$PS2_MCCreateSaveFile,No Finest Hour save data present on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.  Would you like to create a Finest Hour save file?,Keine gespeicherten Finest Hour-Daten auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 vorhanden.  Möchten Sie eine Finest Hour-Datei erstellen?,Pas de données de Call of Duty: Le jour de gloire présentes sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1. Créer un fichier de sauvegarde de Call of Duty: Le jour de gloire ?,Nessun file di salvataggio per Finest Hour presente sulla memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1. Creare un file di salvataggio per Finest Hour? ,No hay datos guardados de Finest Hour en la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1. ¿Deseas crear un archivo guardado de Finest Hour?
+$PS2_MCCreating,"Creating save game file. Do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off console.",Erstellt Daten. Memory Card (8MB) (für PlayStation®2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Création d'un fichier de sauvegarde en cours. Ne pas retirer la memory card (8MB) (pour PlayStation®2) ou la manette, ni redémarrer ou éteindre la console.",Creazione del file di salvataggio in corso... Non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.,Creando archivo de partida guardada. No extraigas la memory card (8MB) (para PlayStation®2) ni el mando. No reinicies ni apagues la consola.
+$PS2_MCDataRequired,No Finest Hour save data present on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.,Keine gespeicherten Finest Hour-Daten auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 vorhanden.,Pas de données de Call of Duty: Le jour de gloire présentes sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1.,Nessun file di salvataggio per L'ora degli Eroi presente sulla memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1.,No hay datos guardados de Finest Hour en la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1.
+$PS2_MCDelete,Delete,Löschen,Effacer,Elimina,Borrar
+$PS2_MCFormat,Format,Formatieren,Formater,Formatta,Formatear
+$PS2_MCFormatCancel,Cancel format?,Formatieren abbrechen?,Annuler le formatage ?,Annullare la formattazione?,¿Cancelar formatear?
+$PS2_MCFormatFailed,Format failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.,Formatieren gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal.,Echec du formatage ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer.,Formattazione fallita! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare.,¡Error al formatear! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo.
+$PS2_MCFormatFailedContinue,Format failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.  Continue without saving?,Formatieren gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal. Ohne Speichern fortfahren?,Echec du formatage ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer. Continuer sans sauvegarder ?,Formattazione fallita! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare. Continuare senza salvare?,¡Error al formatear! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo. ¿Continuar sin guardar?
+$PS2_MCFormatOK,Format successful.,Formatieren erfolgreich.,Formatage réussi.,Formattazione completata.,Éxito al formatear.
+$PS2_MCFormattedRequired,No Finest Hour save data present on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.,Keine gespeicherten Finest Hour-Daten auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 vorhanden.,Pas de données de Call of Duty: Le jour de gloire présentes sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1.,Nessun salvataggio di L'ora degli Eroi presente nella memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1.,No hay datos guardados de Finest Hour en la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1.
+$PS2_MCFormatting,"Formatting memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1. Do not remove memory card, controller, or reset/switch off console.",Formatiert Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1. Memory Card (8MB) (für PlayStation®2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Formatage en cours. Ne pas retirer la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 ou la manette, ni redémarrer ou éteindre la console.",Formattazione della memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 in corso... Non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.,Formateando la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1. No extraigas la memory card ni el mando. No reinicies ni apagues la consola.
+$PS2_MCGameCorrupt,The selected save data is corrupted and cannot be loaded.,Die gewählten Daten sind fehlerhaft und können nicht geladen werden.,Les données sélectionnées sont corrompues et ne peuvent être chargées.,I dati di salvataggio selezionati sono danneggiati e non possono essere caricati.,Los datos guardados seleccionados están dañados y no pueden usarse.
+$PS2_MCLoadFailed,Load failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.,Laden gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal.,Echec du chargement ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer.,Caricamento fallito! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare.,¡Error al cargar! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo.
+$PS2_MCLoading,"Loading data. Do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off console.",Lädt Daten. Memory Card (8MB) (für PlayStation®2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Chargement en cours. Ne pas retirer la memory card (8MB) (pour PlayStation®2) ou la manette, ni redémarrer ou éteindre la console.",Caricamento dati in corso… Non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.,Cargando datos. No extraigas la memory card (8MB) (para PlayStation®2) ni el mando. No reinicies ni apagues la consola.
+$PS2_MCLoadNewGame,The selected save data is empty.  Do you want to start a new game?,Die gewählten Daten sind leer. Möchten Sie ein neues Spiel starten?,Le fichier sélectionné est vide. Commencer une nouvelle partie ?,I dati di salvataggio selezionati sono vuoti. Iniziare una nuova partita?,Los datos guardados seleccionados están vacíos. ¿Quieres comenzar una nueva partida?
+$PS2_MCLoadOK,Load successful.,Laden erfolgreich.,Chargement réussi.,Caricamento completato.,Éxito al cargar.
+$PS2_MCNewGameOKAutosave,"While this icon is on the screen, do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off console.","Solange dieses Symbol auf dem Bildschirm erscheint, entfernen Sie Memory Card (8MB) (für PlayStation®2) und Controller nicht und stellen die Konsole nicht zurück oder schalten sie ab.","Lorsque cet icone est à l'écran, ne pas retirer la memory card (8MB) (pour PlayStation®2) ou la manette, ni redémarrer ou éteindre la console.","Mentre questa icona è visibile, non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.","Mientras este icono esté en la pantalla, no extraigas la memory card (8MB) (para PlayStation®2) ni el mando. No reinicies ni apagues la consola."
+$PS2_MCNo,No,Nein,Non,No,No
+$PS2_MCNoCardContinue,Continue without saving?,Ohne Speichern fortfahren?,Continuer sans sauvegarder ?,Continuare senza salvare?,¿Continuar sin guardar?
+$PS2_MCNoCardLoad,No memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.,Keine Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1.,Pas de memory card (8MB) (pour PlayStation®2) insérée dans la fente pour MEMORY CARD N° 1.,Nessuna memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1.,No hay memory card (8MB) (para PlayStation®2) en la ranura para MEMORY CARD 1.
+$PS2_MCNoSpace,Insufficient free space on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.  Finest Hour requires ${SaveGameSize}KB of free space to save data.,"Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1. Finest Hour benötigt ${SaveGameSize} KB freien Speicherplatz, um Daten zu speichern.",Espace insuffisant sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1. Call of Duty: Le jour de gloire nécessite ${SaveGameSize} KB d’espace libre pour sauvegarder les données.,Spazio libero insufficiente sulla memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1. L'ora degli Eroi richiede ${SaveGameSize}KB di spazio libero per salvare i dati.,No hay espacio suficiente libre en la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1. Finest Hour necesita ${SaveGameSize} KB de espacio libre para guardar datos.
+$PS2_MCNoSpaceContinue,Insufficient free space on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.  Finest Hour requires ${SaveGameSize}KB of free space to save data.,"Ungenügend Speicherplatz auf der Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1. Finest Hour benötigt ${SaveGameSize} KB freien Speicherplatz, um Daten zu speichern.",Espace insuffisant sur la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1. Call of Duty: Le jour de gloire nécessite ${SaveGameSize} KB d’espace libre pour sauvegarder les données.,Spazio libero insufficiente sulla memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1. L'ora degli Eroi richiede ${SaveGameSize}KB di spazio libero per salvare i dati.,No hay espacio suficiente libre en la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1. Finest Hour necesita ${SaveGameSize} KB de espacio libre para guardar datos.
+$PS2_MCOK,OK,OK,OK,OK,ACEPTAR
+$PS2_MCOverwriteContinue,Are you sure you wish to overwrite this save file?,"Sind Sie sicher, dass Sie diese Datei überschreiben möchten?",Confirmer l’écrasement de ce fichier ?,Sovrascrivere questo file?,¿Seguro que quieres sobrescribir este archivo guardado?
+$PS2_MCOverwriteFailed,Overwrite failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.,Überschreiben gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal.,Echec de l’écrasement ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer.,Sovrascrittura fallita! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare.,¡Error al sobrescribir! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo.
+$PS2_MCOverwriteFailedContinue,Overwrite failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.  Continue without saving?,Überschreiben gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal. Ohne Speichern fortfahren?,Echec de l’écrasement ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer. Continuer sans sauvegarder ?,Sovrascrittura fallita! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare. Continuare senza salvare?,¡Error al sobrescribir! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo. ¿Continuar sin guardar?
+$PS2_MCOverwriteNewContinue,Are you sure you wish to overwrite this save file?,"Sind Sie sicher, dass Sie diese Datei überschreiben möchten?",Confirmer l’écrasement de ce fichier ?,Sovrascrivere questo file?,¿Seguro que quieres sobrescribir este archivo guardado?
+$PS2_MCOverwriteOK,Overwrite successful.,Überschreiben erfolgreich.,Ecrasement réussi.,Sovrascrittura completata.,Éxito al sobrescribir.
+$PS2_MCOverwriting,"Overwriting data. Do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off console.",Überschreibt Daten. Memory Card (8MB) (für PlayStation®2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Ecrasement des données. Ne pas retirer la memory card (8MB) (pour PlayStation®2) ou la manette, ni redémarrer ou éteindre la console.",Sovrascrittura dati in corso... Non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.,Sobrescribiendo datos. No extraigas la memory card (8MB) (para PlayStation®2) ni el mando. No reinicies ni apagues la consola.
+$PS2_MCRetry,Retry,Wiederholen,Réessayer,Riprova,Reintentar
+$PS2_MCSaveFailed,Save failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.,Speichern gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal.,Echec de la sauvegarde ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer.,Salvataggio fallito! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare.,¡Error al guardar! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo.
+$PS2_MCSaveFailedContinue,Save failed! Check memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.  Continue without saving?,Speichern gescheitert! Bitte überprüfen Sie die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 und versuchen Sie es noch einmal. Ohne Speichern fortfahren?,Echec de la sauvegarde ! Vérifier la memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 et réessayer. Continuer sans sauvegarder ?,Salvataggio fallito! Controllare la memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 e riprovare. Continuare senza salvare?,¡Error al guardar! Comprueba la memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 e inténtalo de nuevo. ¿Continuar sin guardar?
+$PS2_MCSaveOK,Save successful.,Speichern erfolgreich.,Sauvegarde réussie.,Salvataggio completato.,Éxito al guardar.
+$PS2_MCSaving,"Saving data. Do not remove memory card (8MB) (for PlayStation®2), controller, or reset/switch off console.",Speichert Daten. Memory Card (8MB) (für PlayStation®2) und Controller nicht entfernen und die Konsole nicht zurückstellen oder abschalten.,"Sauvegarde en cours. Ne pas retirer la memory card (8MB) (pour PlayStation®2) ou la manette, ni redémarrer ou éteindre la console.",Salvataggio dati in corso… Non rimuovere la memory card (8MB) (per PlayStation®2) né il controller e non resettare/spegnere la console.,Guardando datos. No extraigas la memory card (8MB) (para PlayStation®2) ni el mando. No reinicies ni apagues la consola.
+$PS2_MCUnformatted,Memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1 is unformatted.  Format memory card (8MB) (for PlayStation®2)?,Die Memory Card (8MB) (für PlayStation®2) in MEMORY CARD-Steckplatz 1 ist nicht formatiert. Möchten Sie die Memory Card (8MB) (für PlayStation®2) formatieren?,La memory card (8MB) (pour PlayStation®2) dans la fente pour MEMORY CARD N° 1 n’est pas formatée. Formater la memory card (8MB) (pour PlayStation®2) ?,La memory card (8MB) (per PlayStation®2) inserita nell’ingresso MEMORY CARD 1 non è formattata. Formattare la memory card (8MB) (per PlayStation®2)?,La memory card (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1 no tiene formato. ¿Deseas formatear la memory card (8MB) (para PlayStation®2)?
+$PS2_MCWrongVersion,Save file is wrong version. Overwrite?,Datei hat die falsche Version. Überschreiben?,Mauvaise version du fichier de sauvegarde. L'écraser ?,La versione del file di salvataggio è sbagliata. Sovrascrivere?,El archivo guardado es de otra versión. ¿Sobrescribir?
+$PS2_MCYes,Yes,Ja,Oui,Sì,Sí
+$PS2_NoControllerText,"The DUALSHOCK®2 analog controller is not detected. Please insert a DUALSHOCK®2 analog controller to controller port 1, and press $JumpButton to continue.",Kein Analog Controller (DUALSHOCK®2) angeschlossen. Bitte schließen Sie einen Analog Controller (DUALSHOCK®2) an Controller-Anschluss 1 an und drücken Sie $JumpButton zum Fortsetzen.,Aucune manette analogique (DUALSHOCK®2) détectée. Connecter une manette analogique (DUALSHOCK®2) dans le port de manette N°1 et appuyer sur $JumpButton pour continuer.,Controller analogico (DUALSHOCK®2) non rilevato. Collegare un controller analogico (DUALSHOCK®2) all'ingresso controller 1 e premere il tasto $JumpButton per continuare.,"No se detecta ningún mando analógico (DUALSHOCK®2). Inserta un mando analógico (DUALSHOCK®2) al puerto de mando 1, y pulsa $JumpButton para continuar."
+$PS2_NoControllerTitle,No Controller,Kein Controller,Pas de manette.,Controller assente,No hay mando
+$PS2_ProgressiveTest,The screen mode has been changed to progressive scan.  Select OK to keep this change.  Change will revert in $ProgressiveCountdown seconds.,"Die Anzeige wurde auf Progressive Scan umgestellt. Wählen Sie OK, um diese Einstellung beizubehalten. Die Änderung wird in $ProgressiveCountdown Sekunden rückgängig gemacht.",Le mode d'affichage a été changé en Balayage progressif. Sélectionner OK pour valider ce changement. Ce changement sera annulé dans $ProgressiveCountdown secondes.,La modalità schermo è cambiata in scansione progressiva. Selezionare OK per mantenere il cambiamento. Ritorno alla modalità originaria tra $ProgressiveCountdown secondi.,El modo de pantalla ha cambiado a escaneo progresivo. Selecciona Aceptar para mantener este cambio. Se volverá al modo anterior en $ProgressiveCountdown segundos.
+$PS2_ProgressiveTestCancel,Cancel,Abbrechen,Annuler,Annulla,Cancelar
+$PS2_ProgressiveTestOK,OK,OK,OK,OK,ACEPTAR
+$PS2_ProgressiveWarning,"On the next page, a test will be performed to see if your television supports progressive scan.  If the screen goes blank, just wait 15 seconds for the test to complete.","Auf der folgenden Seite sehen Sie einen Test, ob Ihr Fernseher Progressive Scan unterstützt. Sollte die Anzeige schwarz werden, warten Sie einfach 15 Sekunden, bis der Test abgeschlossen ist.","Sur la page suivante, un test sera effectué pour savoir si votre téléviseur est compatible avec le mode Balayage progressif. Si rien ne s'affiche à l'écran, patienter 15 secondes jusqu'à la fin du test.","Nella pagina successiva, verrà effettuato un test per verificare se il televisore supporta la scansione progressiva. Se lo schermo appare vuoto, attendere 15 secondi per la fine del test.","En la siguiente página se realizará una prueba para ver si tu televisor es compatible con el escaneo progresivo. Si la pantalla se pone en blanco, espera 15 segundos para que la prueba termine."
+$PS2_SoloController1Text,Controller Port 1,Controller-Anschluss 1,Port de manette N°1,Ingresso controller 1,Puerto de mando 1
+$PS2_SoloController2Text,Controller Port 2,Controller-Anschluss 2,Port de manette N°2,Ingresso controller 2,Puerto de mando 2
+$PS2_VibrationSet,Vibration:,Vibration:,Fonction de vibration :,Vibrazione:,Vibración
+$PS2_YankControllerText,A DUALSHOCK®2 analog controller has been removed. Press $JumpButton to continue playing.,Ein Analog Controller (DUALSHOCK®2) wurde entfernt. Drücken Sie $JumpButton zum Fortsetzen.,Une manette analogique (DUALSHOCK®2) a été retirée. Appuyer sur $JumpButton pour continuer à jouer.,È stato rimosso un controller analogico (DUALSHOCK®2). Premere il tasto $JumpButton per continuare a giocare.,Un mando analógico (DUALSHOCK®2) ha sido extraído. Pulsa $JumpButton para seguir jugando.
+$PS2_YankControllerTitle,Controller Removed,Controller entfernt,Manette retirée.,Controller rimosso,Mando extraído
+$XBX_ControllerSetupInfo,"To join the game, connect a controller and press $Accept.  To leave the game, press $Accept on any active controller.",Zum Mitspielen schließen Sie einen Controller an und drücken Sie $Accept.  Zum Verlassen des Spiels drücken Sie $Accept auf einem angeschlossenen Controller.,"Pour rejoindre la partie, connecter une manette et appuyer sur $Accept. Pour quitter la partie, appuyer sur $Accept pour toutes les manettes actives.","Per partecipare a una partita, collega un controller e premi $Accept. Per abbandonare la partita, premi $Accept su qualunque controller attivo.","Para unirte a la partida, conecta un mando y pulsa $Accept. Para salir de la partida, pulsa $Accept en cualquier mando activo."
+$XBX_ControllerText,Controller 1,Controller 1,Manette 1,Controller 1,Mando 1
+$XBX_CorruptedText,Damaged Save,Fehlerhafter Spielstand,Sauvegarde endommagée,Salvataggio danneggiato,Partida dañada
+$XBX_DirtyDisc,There's a problem with the disc you're using. It may be dirty or damaged.,Bei der benutzten CD ist ein Problem aufgetreten. Möglicherweise ist sie verschmutzt oder beschädigt.,Le disque utilisé présente une anomalie. Il est peut-être sale ou endommagé. ,Il disco in uso ha qualche problema. Potrebbe essere sporco o danneggiato.,Hay un problema con el disco que está usando. Puede estar sucio o dañado.
+$XBX_MCAutosaveDisabled,Autosave has been disabled.  Manually save your game to re-enable autosave.,"Das automatische Speichern wurde deaktiviert. Speichern Sie das Spiel manuell, um das automatische Speichern wieder zu aktivieren.",La sauvegarde automatique a été désactivée. Sauvegarder manuellement pour réactiver la sauvegarde automatique.,L'Autosalvataggio è stato disabilitato. Salva manualmente la partita per riabilitarlo.,El autoguardado ha sido desactivado. Guarda manualmente la partida para reactivar el autoguardado.
+$XBX_MCAutosaveFailed,Unable to save game! Autosave has been disabled.  Manually save your game to re-enable autosave.,"Spiel kann nicht gespeichert werden! Das automatische Speichern wurde deaktiviert. Speichern Sie das Spiel manuell, um das automatische Speichern wieder zu aktivieren.",Echec de la sauvegarde ! La sauvegarde automatique a été désactivée. Sauvegarder manuellement pour réactiver la sauvegarde automatique.,Salvataggio fallito! L'Autosalvataggio è stato disabilitato. Salva manualmente la partita per riabilitarlo.,¡Error al guardar partida! El autoguardado ha sido desactivado. Guarda manualmente la partida para reactivar el autoguardado.
+$XBX_MCAutosaveReconfirm,N/A,-,N/A,N/D,N/D
+$XBX_MCAutosaving,Autosaving game.,Automatische Datenspeicherung.,Sauvegarde automatique en cours.,Autosalvataggio della partita.,Autoguardando partida.
+$XBX_MCCancel,Cancel,Abbrechen,Annuler,Annulla,Anular
+$XBX_MCCheckFailed,Check failed!,Überprüfen gescheitert!,Echec de la vérification !,Verifica fallita!,¡Error al comprobar!
+$XBX_MCCheckFailedContinue,Check failed!  Continue without saving?,Überprüfen gescheitert! Ohne Speichern fortfahren?,Echec de la vérification ! Continuer sans sauvegarder ?,Verifica fallita! Vuoi continuare senza salvare?,¡Error al comprobar! ¿Continuar sin guardar?
+$XBX_MCChecking,Checking for free space. Please don't turn off the Xbox console.,Speicherplatz wird überprüft. Bitte die Xbox nicht ausschalten.,Vérification de l'espace libre disponible en cours. Ne pas éteindre la console Xbox.,Verifica dello spazio libero. Non spegnere Xbox.,Comprobando espacio libre. No apagar la consola Xbox.
+$XBX_MCConfirmFormat,N/A,-,N/A,N/D,N/D
+$XBX_MCContinue,Continue,Fortsetzen,Continuer,Continua,Seguir
+$XBX_MCCorrupted,Finest Hour saved game cannot be used.,Der Finest Hour-Spielstand kann nicht verwendet werden.,La sauvegarde de Call of Duty: Le jour de gloire ne peut pas être utilisée.,Il salvataggio per L'ora degli Eroi non può essere utilizzato.,La partida guardada de Finest Hour no puede usarse.
+$XBX_MCCorruptedNew,Finest Hour saved game is damaged and cannot be used.  Would you like to create a new Finest Hour save file?,Die Finest Hour-Daten sind fehlerhaft und können nicht verwendet werden. Möchten Sie eine Finest Hour-Datei erstellen?,La sauvegarde de Call of Duty: Le jour de gloire est endommagée et inutilisable. Créer un fichier de sauvegarde de Call of Duty: Le jour de gloire ?,Il salvataggio per L'ora degli Eroi è danneggiato e non può essere utilizzato. Vuoi creare un nuovo file di salvataggio per L'ora degli Eroi?,La partida guardada de Finest Hour está dañada y no puede usarse. ¿Quieres crear un nuevo archivo guardado de Finest Hour?
+$XBX_MCCreateFailed,Create failed!,Erstellen gescheitert!,Echec de la création !,Creazione fallita!,¡Error al crear!
+$XBX_MCCreateFailedContinue,Create failed!  Continue without saving?,Erstellen gescheitert! Ohne Speichern fortfahren?,Echec de la création ! Continuer sans sauvegarder ?,Creazione fallita! Vuoi continuare senza salvare?,¡Error al crear! ¿Continuar sin guardar?
+$XBX_MCCreateOK,Creation successful.,Erstellen erfolgreich.,Création réussie.,Creazione completata.,Éxito al crear.
+$XBX_MCCreateSaveFile,No Finest Hour saved games present on the Xbox console.  Would you like to create a Finest Hour save?,Keine gespeicherten Finest Hour-Daten auf der Xbox. Möchten Sie eine Finest Hour-Datei erstellen?,Pas de données de Call of Duty: Le jour de gloire présentes sur la console Xbox. Créer un fichier de sauvegarde de Call of Duty: Le jour de gloire ?,Nessun salvataggio di L'ora degli Eroi presente su Xbox. Vuoi creare un salvataggio di L'ora degli Eroi?,No hay partidas guardadas de Finest Hour en la consola Xbox. ¿Quieres guardar tu partida de Finest Hour?
+$XBX_MCCreating,Saving.,Speichern.,Sauvegarde en cours.,Salvataggio in corso...,Guardando.
+$XBX_MCDataRequired,No Finest Hour saved game present.,Keine gespeicherten Finest Hour-Daten.,Pas de données de Call of Duty: Le jour de gloire.,Nessun salvataggio di L'ora degli Eroi presente.,No hay partidas guardadas de Finest Hour.
+$XBX_MCDelete,Delete,Löschen,Effacer,Elimina,Borrar
+$XBX_MCExitFree,Free more blocks,Für mehr freie Blöcke sorgen,Libérer des blocs,Libera dei blocchi,Liberar más bloques
+$XBX_MCFormat,Format,Formatieren,Formater,Formatta,Formatear
+$XBX_MCFormatCancel,N/A,-,N/A,N/D,N/D
+$XBX_MCFormatFailed,N/A,-,N/A,N/D,N/D
+$XBX_MCFormatFailedContinue,N/A,-,N/A,N/D,N/D
+$XBX_MCFormatOK,N/A,-,N/A,N/D,N/D
+$XBX_MCFormattedRequired,N/A,-,N/A,N/D,N/D
+$XBX_MCFormatting,N/A,-,N/A,N/D,N/D
+$XBX_MCGameCorrupt,Unable to load Save Game. Press A to continue.,Spielstand kann nicht geladen werden. Weiter mit A-Taste.,Chargement de la sauvegarde impossible. Appuyer sur A pour continuer.,Salvataggio fallito. Premi A per continuare.,Error al cargar partida guardada. Pulsa A para continuar.
+$XBX_MCLoadFailed,Unable to load content.,Inhalt kann nicht geladen werden.,Chargement du contenu impossible.,Caricamento contenuti fallito.,Imposible cargar contenido.
+$XBX_MCLoading,Loading.,Laden.,Chargement en cours.,Caricamento,Cargando.
+$XBX_MCLoadNewGame,The selected saved game is empty.  Do you want to start a new game?,Die gewählten Daten sind leer. Möchten Sie ein neues Spiel starten?,La sauvegarde sélectionnée est vide. Commencer une nouvelle partie ?,Il salvataggio selezionato è vuoto. Vuoi iniziare una nuova partita?,La partida guardada seleccionada está vacía. ¿Quieres comenzar una nueva partida?
+$XBX_MCLoadOK,Load successful.,Laden erfolgreich.,Chargement réussi.,Caricamento completato.,Éxito al cargar.
+$XBX_MCNewGameOKAutosave,"New game saved.  While this icon is on the screen, please do not turn off your Xbox console.","Neues Spiel gespeichert. Solange dieses Symbol auf dem Bildschirm erscheint, schalten Sie die Xbox bitte nicht aus.","Nouvelle sauvegarde. Lorsque cet icone est à l'écran, ne pas éteindre la console Xbox.","Nuova partita salvata. Finché questa icona è visibile, non spegnere Xbox.","Partida nueva guardada. Mientras este icono esté en la pantalla, no apagar la consola Xbox."
+$XBX_MCNo,No,Nein,Non,No,No
+$XBX_MCNoCard,Unable to load content.,Inhalt kann nicht geladen werden.,Chargement du contenu impossible.,Caricamento contenuti fallito.,Imposible cargar contenido.
+$XBX_MCNoCardContinue,Continue without saving?,Ohne Speichern fortfahren?,Continuer sans sauvegarder ?,Vuoi continuare senza salvare?,¿Continuar sin guardar?
+$XBX_MCNoCardLoad,Load.,Laden.,Charger,Carica,Cargar.
+$XBX_MCNoSpace,Your Xbox doesn't have enough free blocks to save games.  You need to free ${SaveGameSize} more blocks.  Would you like to continue without saving?,"Die Xbox hat nicht genügend freie Blöcke, um Spiele zu speichern. Es werden ${SaveGameSize} weitere Blöcke benötigt. Ohne Speichern fortfahren?",Votre console Xbox ne comporte pas assez de bloc(s) libre(s) pour sauvegarder les parties. Vous avez besoin de ${SaveGameSize} blocs libres supplémentaires. Continuer sans sauvegarder ?,Xbox non dispone di sufficienti blocchi liberi per salvare. Sono necessari ${SaveGameSize} ulteriori blocchi liberi. Vuoi continuare senza salvare?,Tu Xbox no tiene suficientes bloques libres para guardar partidas. Se necesitan ${SaveGameSize} bloques más. ¿Deseas continuar sin guardar?
+$XBX_MCNoSpaceContinue,Your Xbox doesn't have enough free blocks to save games.  You need to free ${SaveGameSize} more blocks.  Would you like to continue without saving?,"Die Xbox hat nicht genügend freie Blöcke, um Spiele zu speichern. Es werden ${SaveGameSize} weitere Blöcke benötigt. Ohne Speichern fortfahren?",Votre console Xbox ne comporte pas assez de bloc(s) libre(s) pour sauvegarder les parties. Vous avez besoin de ${SaveGameSize} blocs libres supplémentaires. Continuer sans sauvegarder ?,Xbox non dispone di sufficienti blocchi liberi per salvare. Sono necessari ${SaveGameSize} ulteriori blocchi liberi. Vuoi continuare senza salvare?,Tu Xbox no tiene suficientes bloques libres para guardar partidas. Se necesitan ${SaveGameSize} bloques más. ¿Deseas continuar sin guardar?
+$XBX_MCOK,OK,OK,OK,OK,ACEPTAR
+$XBX_MCOverwriteContinue,Are you sure you want to overwrite this saved game?,Möchten Sie diesen Spielstand wirklich überschreiben?,Ecraser cette sauvegarde ?,Vuoi sovrascrivere questo salvataggio?,¿Seguro que quieres sobrescribir esta partida guardada?
+$XBX_MCOverwriteFailed,Overwrite failed!,Überschreiben gescheitert!,Echec de l'écrasement !,Sovrascrittura fallita!,¡Error al sobrescribir!
+$XBX_MCOverwriteFailedContinue,Overwrite failed!  Continue without saving?,Überschreiben gescheitert! Ohne Speichern fortfahren?,Echec de l'écrasement ! Continuer sans sauvegarder ?,Sovrascrittura fallita! Vuoi continuare senza salvare?,¡Error al sobrescribir! ¿Continuar sin guardar?
+$XBX_MCOverwriteNewContinue,Are you sure you want to overwrite this saved game with a new game?,Möchten Sie diesen Spielstand wirklich mit einem neuen Spielstand überschreiben?,Ecraser cette sauvegarde avec une nouvelle partie ?,Vuoi sovrascrivere questo salvataggio con uno nuovo?,¿Seguro que quieres sobrescribir esta partida guardada con una nueva partida?
+$XBX_MCOverwriteOK,Overwrite successful.,Überschreiben erfolgreich.,Ecrasement réussi.,Sovrascrittura completata.,Éxito al sobrescribir.
+$XBX_MCOverwriting,Saving.,Speichern.,Sauvegarde en cours.,Salvataggio in corso...,Guardando.
+$XBX_MCRetry,Retry,Wiederholen,Réessayer,Riprova,Reintentar
+$XBX_MCSaveFailed,Unable to save game!,Spiel kann nicht gespeichert werden!,Sauvegarde impossible !,Impossibile salvare la partita!,¡Error al guardar partida!
+$XBX_MCSaveFailedContinue,Unable to save game!  Continue without saving?,Spiel kann nicht gespeichert werden! Ohne Speichern fortfahren?,Sauvegarde impossible ! Continuer sans sauvegarder ?,Impossibile salvare la partita! Vuoi continuare senza salvare?,¡Error al guardar partida! ¿Continuar sin guardar?
+$XBX_MCSaveOK,Save successful.,Speichern erfolgreich.,Sauvegarde réussie.,Salvataggio completato.,Éxito al guardar.
+$XBX_MCSaving,Saving.,Speichern.,Sauvegarde en cours.,Salvataggio in corso...,Guardando.
+$XBX_MCUnformatted,N/A,-,N/A,N/D,N/D
+$XBX_MCWrongVersion,Save file is wrong version. Overwrite?,Datei hat die falsche Version. Überschreiben?,Mauvaise version du fichier de sauvegarde. L'écraser ?,La versione del file di salvataggio è sbagliata. Vuoi sovrascrivere?,El archivo guardado es de otra versión. ¿Sobrescribir?
+$XBX_MCYes,Yes,Ja,Oui,Sì,Sí
+$XBX_NoControllerText,Please reconnect the controller and press START to continue.,Bitte den Controller wieder anschließen und START drücken.,Reconnecter la manette et appuyer sur START pour continuer.,Ricollega il controller e premi START per continuare.,Vuelve a conectar el Mando y pulsa START/PAUSE para continuar.
+$XBX_NoControllerTitle,No Controller,Kein Controller,Pas de manette.,Nessun controller rilevato,No hay mando
+$XBX_VibrationSet,Vibration:,Vibration:,Vibration :,Vibrazione:,Vibración
+$XBX_YankControllerText,Please reconnect the controller and press START to continue.,Bitte den Controller wieder anschließen und START drücken.,Reconnecter la manette et appuyer sur START pour continuer.,Ricollega il controller e premi START per continuare.,Vuelve a conectar el Mando y pulsa START/PAUSE para continuar.
+$XBX_YankControllerTitle,Controller Disconnected,Controller entfernt,Manette déconnectée,Controller scollegato,Mando desconectado
+$NGC_ControllerSetupInfo,"To join the game, connect a controller and press $Accept.  To leave the game, press $Accept on any active controller.",Zum Mitspielen schließen Sie einen Controller an und drücken Sie $Accept.  Zum Verlassen des Spiels drücken Sie $Accept auf einem angeschlossenen Controller.,"Pour rejoindre la partie, connectez une manette et appuyez sur $Accept. Pour quitter la partie, appuyez sur $Accept sur toute manette active.","Per partecipare alla partita, collega un controller e premi $Accept. Per lasciare la partita, premi $Accept su qualunque controller attivo.","Para unirte a la partida, conecta un mando y pulsa $Accept. Para salir de la partida, pulsa $Accept en cualquier mando activo."
+$NGC_ControllerText,Controller 1,Controller 1,Manette 1,Controller 1,Mando 1
+$NGC_ControlsAction,Action,Aktion,Action,Azione,Acción
+$NGC_ControlsAttack,Attack,Angriff,Attaquer,Attacca,Ataque
+$NGC_ControlsJump,Jump,Sprung,Sauter,Salta,Saltar
+$NGC_ControlsNext,Next Character,Nächster Charakter,Personnage suivant,Personaggio successivo,Personaje siguiente
+$NGC_ControlsPrev,Previous Character,Vorheriger Charakter,Personnage précédent,Personaggio precedente,Personaje anterior.
+$NGC_ControlsSpecial,Special Ability,Spezialfähigkeit,Compétence spéciale,Abilità speciale,Habilidad especial
+$NGC_CorruptedText,Corrupt Save,Fehlerhafter Spielstand,Sauvegarde corrompue,Salvataggio corrotto,Datos guardados dañados
+$NGC_MCAutosaveDisabled,Memory Card in Slot A was removed.  Autosave has been disabled.  Manually save your game to re-enable autosave.,"Die Memory Card in Steckplatz A wurde entfernt. Das automatische Speichern wurde deaktiviert. Speichern Sie das Spiel manuell, um das automatische Speichern wieder zu aktivieren.",La Memory Card (carte mémoire) du Slot A a été retirée. La sauvegarde automatique a été désactivée. Sauvegardez manuellement pour réactiver la sauvegarde automatique.,La Memory Card (Scheda Memoria) nello Slot A è stata rimossa. Salva la partita manualmente per riabilitare l'Autosalvataggio.,La Memory Card (tarjeta de memoria) de la Ranura A ha sido extraída. El autoguardado ha sido desactivado. Guarda manualmente la partida para reactivar el autoguardado.
+$NGC_MCAutosaveFailed,Save failed!  Autosave has been disabled.  Check memory card in Slot A and manually save your game to re-enable autosave.,"Speichern gescheitert! Das automatische Speichern wurde deaktiviert. Überprüfen Sie die Memory Card in Steckplatz A und speichern Sie manuell, um das automatische Speichern wieder zu aktivieren.",Echec de la sauvegarde ! La sauvegarde automatique a été désactivée. Vérifiez la Memory Card (carte mémoire) du Slot A et sauvegardez manuellement pour réactiver la sauvegarde automatique.,Salvataggio fallito! Salvataggio automatico disabilitato. Controlla la Memory Card (Scheda Memoria) nello Slot A e salva la partita manualmente per riabilitare l'Autosalvataggio.,¡Error al guardar! El autoguardado ha sido desactivado. Comprueba la Memory Card (tarjeta de memoria) de la Ranura A y guarda manualmente la partida para reactivar el autoguardado.
+$NGC_MCAutosaveReconfirm,The Memory Card in Slot A has been removed since last save. ,Die Memory Card in Steckplatz A wurde seit dem letzten Speichern entfernt.,La Memory Card (carte mémoire) du Slot A a été retirée depuis la dernière sauvegarde. ,La Memory Card (Scheda Memoria) nello Slot A è stata rimossa dall'ultimo salvataggio.,La Memory Card (tarjeta de memoria) de la Ranura A ha sido extraída desde la última vez que se guardaron datos.
+$NGC_MCAutosaving,Autosaving data. Do not touch the Memory Card or the POWER Button.,Speichert automatisch. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Sauvegarde automatique en cours. Ne touchez pas à la Memory Card (carte mémoire) ni au bouton POWER.,Autosalvataggio dei dati. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Autoguardando datos. No toques ni la Memory Card (tarjeta de memoria) ni el Botón POWER.
+$NGC_MCCancel,Cancel,Abbrechen,Annuler,Annulla,Cancelar
+$NGC_MCCardChanged,The Memory Card in Slot A has changed.,Die Memory Card in Steckplatz A wurde gewechselt.,La Memory Card (carte mémoire) du Slot A a été changée.,La Memory Card (Scheda Memoria) nello Slot A è cambiata.,La Memory Card (tarjeta de memoria) de la Ranura A ha cambiado.
+$NGC_MCCardRemoved,The Memory Card in Slot A has been removed.,Die Memory Card in Steckplatz A wurde entfernt.,La Memory Card (carte mémoire) du Slot A a été retirée.,La Memory Card (Scheda Memoria) nello Slot A è stata rimossa. ,La Memory Card (tarjeta de memoria) de la Ranura A ha sido extraída.
+$NGC_MCCheckFailed,Check failed. Check Memory Card in Slot A. ,Überprüfen gescheitert. Überprüfen Sie die Memory Card in Steckplatz A.,Echec de la vérification. Vérifiez la Memory Card (carte mémoire) du Slot A.,Controllo fallito. Controllare la Memory Card (Scheda Memoria) nello Slot A.,Error al comprobar. Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCCheckFailedContinue,Check failed. Check Memory Card in Slot A. ,Überprüfen gescheitert. Überprüfen Sie die Memory Card in Steckplatz A.,Echec de la vérification. Vérifiez la Memory Card (carte mémoire) du Slot A.,Controllo fallito. Controllare la Memory Card (Scheda Memoria) nello Slot A.,Error al comprobar. Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCChecking,Checking Memory Card in Slot A. Do not touch the Memory Card in Slot A or the POWER Button.,Memory Card in Steckplatz A wird überprüft. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Vérification de la Memory Card (carte mémoire) du Slot A. Ne touchez pas à la Memory Card (carte mémoire) ni au bouton POWER.,Controllo della Memory Card (Scheda Memoria) nello Slot A. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Comprobando Memory Card (tarjeta de memoria). No toques ni la Memory Card (tarjeta de memoria) de la Ranura A ni el Botón POWER.
+$NGC_MCConfirmFormat,Formatting the Memory Card in Slot A will erase all previously saved data. Do you wish to proceed with formatting? ,Durch das Formatieren der Memory Card in Steckplatz A werden alle zuvor gespeicherten Daten gelöscht. Soll sie trotzdem formatiert werden?,Formater la Memory Card (carte mémoire) entraînera la perte de toutes les données sauvegardées. Voulez-vous continuer le formatage ?,"Formattando la Memory Card (Scheda Memoria) nello Slot A, tutti i dati salvati in precedenza verranno eliminati. Vuoi procedere con la formattazione?",Si formateas la Memory Card (tarjeta de memoria) de la Ranura A se borrarán todos los datos guardados. ¿Deseas formatearla de todos modos?
+$NGC_MCContinue,Continue,Fortsetzen,Continuer,Continua,Continuar
+$NGC_MCContinueWOSaving,$TextHSize(55)Continue Without Saving,$TextHSize(55)Ohne Speichern fortfahren,$TextHSize(55)Continuer sans sauvegarder,$TextHSize(55)Prosegui senza salvare,$TextHSize(55)Continuar sin guardar
+$NGC_MCCorrupted,Finest Hour game data on Memory Card in Slot A is corrupted.,Die Finest Hour-Daten auf der Memory Card in Steckplatz A sind fehlerhaft.,Le fichier de Call of Duty: Le jour de gloire sur la Memory Card (carte mémoire) dans le Slot A est corrompu.,I dati di gioco di L'ora degli Eroi sulla Memory Card (Scheda Memoria) nello Slot A sono danneggiati.,El archivo Finest Hour de la Memory Card (tarjeta de memoria) de la Ranura A está dañado.
+$NGC_MCCorruptedNew,The Finest Hour file on Memory Card in Slot A is corrupted. This file needs to be deleted.  Continue without loading ,Die Finest Hour-Datei auf der Memory Card in Steckplatz A ist fehlerhaft. Die Datei muss gelöscht werden. Ohne Laden fortfahren,Le fichier de Call of Duty: Le jour de gloire sur la Memory Card (carte mémoire) dans le Slot A est corrompu. Ce fichier a besoin d'être effacé. Continuer sans charger.,I dati di gioco di L'ora degli Eroi sulla Memory Card (Scheda Memoria) nello Slot A sono danneggiati e devono essere cancellati. Prosegui senza salvare,El archivo Finest Hour de la Memory Card (tarjeta de memoria) de la Ranura A está dañado. Hay que borrar este archivo. Continuar sin cargar
+$NGC_MCCreateFailed,Create failed. Check Memory Card in Slot A ,Überprüfen gescheitert. Überprüfen Sie die Memory Card in Steckplatz A.,Echec de la création. Vérifiez la Memory Card (carte mémoire) du Slot A.,Creazione fallita. Controllare la Memory Card (Scheda Memoria) nello Slot A.,Error al crear. Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCCreateFailedContinue,Create failed. Check Memory Card in Slot A ,Überprüfen gescheitert. Überprüfen Sie die Memory Card in Steckplatz A.,Echec de la création. Vérifiez la Memory Card (carte mémoire) du Slot A.,Creazione fallita. Controllare la Memory Card (Scheda Memoria) nello Slot A.,Error al crear. Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCCreateOK,Creation successful.,Erstellen erfolgreich.,Création terminée.,Creazione completata.,Éxito al crear.
+$NGC_MCCreateSaveFile,No Finest Hour game data present on Memory Card in Slot A.  Would you like to create a Finest Hour save file?,Keine gespeicherten Finest Hour-Daten auf der Memory Card in Steckplatz A vorhanden. Möchten Sie eine Finest Hour-Datei erstellen?,Pas de données de Call of Duty: Le jour de gloire sur la Memory Card (carte mémoire) dans le Slot A. Voulez-vous créer un fichier de sauvegarde de Call of Duty: Le jour de gloire ?,Nessun dato di gioco di L'ora degli Eroi presente sulla Memory Card (Scheda Memoria) nello Slot A. Vuoi creare un salvataggio per L'ora degli Eroi?,No hay datos guardados de Finest Hour en la Memory Card (tarjeta de memoria) de la Ranura A. ¿Quieres crear un nuevo archivo guardado de Finest Hour?
+$NGC_MCCreating,Saving to the Memory Card in Slot A. Do not touch the Memory Card in Slot A or the POWER Button.,Speichern auf Memory Card in Steckplatz A erfolgt. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Sauvegarde en cours. Ne touchez pas à la Memory Card (carte mémoire) dans le Slot A ni au bouton POWER.,Salvataggio sulla Memory Card (Scheda Memoria) nello Slot A. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Guardando en la Memory Card (tarjeta de memoria) de la Ranura A. No toques ni la Memory Card (tarjeta de memoria) de la Ranura A ni el Botón POWER.
+$NGC_MCDataRequired,No Finest Hour save data present on Memory Card in Slot A.,Keine gespeicherten Finest Hour-Daten auf der Memory Card in Steckplatz A vorhanden.,Aucune sauvegarde de Call of Duty: Le jour de gloire sur la Memory Card (carte mémoire) dans le Slot A. ,Nessun salvataggio di L'ora degli Eroi presente sulla Memory Card (Scheda Memoria) nello Slot A.,No hay datos guardados de Finest Hour en la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCDelete,Delete,Löschen,Effacer,Elimina,Borrar
+$NGC_MCExitFree,$TextHSize(67)Manage Memory Card,$TextHSize(67)Memory Card verwalten,$TextHSize(67)Gérer la Memory Card (carte mémoire),$TextHSize(67)Accedi alla Memory Card (Scheda Memoria),$TextHSize(67)Reorganizar Memory Card (tarjeta de memoria)
+$NGC_MCFormat,$TextHSize(67)Format Memory Card,$TextHSize(67)Memory Card formatieren,$TextHSize(67)Formater la Memory Card (carte mémoire),$TextHSize(67)Formatta Memory Card (Scheda Memoria),$TextHSize(67)Formatear Memory Card (tarjeta de memoria)
+$NGC_MCFormatCancel,Cancel format?,Formatieren abbrechen?,Annuler le formatage ?,Annullare la formattazione?,¿Cancelar formatear?
+$NGC_MCFormatFailed,The Memory Card in Slot A is damaged and cannot be used. ,Die Memory Card in Steckplatz A ist fehlerhaft und muss formatiert werden.,La Memory Card (carte mémoire) dans le Slot A est endommagée et ne peut pas être utilisée.,La Memory Card (Scheda Memoria) nello Slot A è danneggiata è non può essere utilizzata.,La Memory Card (tarjeta de memoria) de la Ranura A está dañada y no puede usarse.
+$NGC_MCFormatFailedContinue,Format failed! Check Memory Card in Slot A Continue without save ,Formatieren gescheitert! Überprüfen Sie die Memory Card in Steckplatz A. Ohne Speichern fortfahren,Echec du formatage ! Vérifiez la Memory Card (carte mémoire) dans le Slot A. Continuer sans sauvegarder.,Formattazione fallita! Controllare la Memory Card (Scheda Memoria) nello Slot A. Prosegui senza salvare,¡Error al formatear! Comprueba la Memory Card (tarjeta de memoria) de la Ranura A. Continuar sin guardar
+$NGC_MCFormatOK,Format successful.,Formatieren erfolgreich.,Formatage terminé.,Formattazione completata.,Éxito al formatear.
+$NGC_MCFormattedRequired,No Finest Hour save data present on Memory Card in Slot A.,Keine gespeicherten Finest Hour-Daten auf der Memory Card in Steckplatz A vorhanden.,Aucune donnée de Call of Duty: Le jour de gloire sur la Memory Card (carte mémoire) dans le Slot A. ,Nessun salvataggio di L'ora degli Eroi presente sulla Memory Card (Scheda Memoria) nello Slot A.,No hay datos guardados de Finest Hour en la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCFormatting,Formatting Memory Card in Slot A. Do not touch the Memory Card or the POWER Button.,Formatiert Memory Card in Steckplatz A. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Formatage en cours. Ne touchez pas à la Memory Card (carte mémoire) ni au bouton POWER.,Formattazione della Memory Card (Scheda Memoria) nello Slot A. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Formateando Memory Card (tarjeta de memoria) de la Ranura A. No toques ni la Memory Card (tarjeta de memoria) ni el Botón POWER.
+$NGC_MCLoadFailed,Load failed. Check Memory Card in Slot A Retry.,Laden gescheitert. Überprüfen Sie die Memory Card in Steckplatz A. Wiederholen.,Echec du chargement. Vérifiez la Memory Card (carte mémoire) dans le Slot A. Réessayez.,Caricamento fallito! Controllare la Memory Card (Scheda Memoria) nello Slot A. Riprova,Error al cargar. Comprueba la Memory Card (tarjeta de memoria) de la Ranura A. Reintentar.
+$NGC_MCLoading,Loading data. Do not touch the Memory Card in Slot A or the POWER Button.,Lädt Daten. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Chargement en cours. Ne touchez pas à la Memory Card (carte mémoire) dans le Slot A ni au bouton POWER.,Caricamento dati. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Cargando datos. No toques ni la Memory Card (tarjeta de memoria) de la Ranura A ni el Botón POWER.
+$NGC_MCLoadNewGame,The selected game data is empty.  Do you want to start a new game?,Die gewählten Daten sind leer. Möchten Sie ein neues Spiel starten?,Le fichier sélectionné est vide. Commencer une nouvelle partie ?,I dati di gioco selezionati sono vuoti. Vuoi iniziare una nuova partita?,Los datos de juego seleccionados están vacíos. ¿Quieres comenzar una nueva partida?
+$NGC_MCLoadOK,Load successful.,Laden erfolgreich.,Chargement terminé.,Caricamento completato.,Éxito al cargar.
+$NGC_MCNewGameOKAutosave,"While this icon is on the screen, Do not touch the Memory Card in Slot A or the POWER Button.","Solange dieses Symbol auf dem Bildschirm erscheint, entfernen Sie bitte nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.","Lorsque cet icone est à l'écran, ne touchez pas à la Memory Card (carte mémoire) dans le Slot A ni au bouton POWER.","Finché questa icona è visibile, non toccare la Memory Card (Scheda Memoria) nello Slot A o il pulsante POWER.","Mientras este icono esté en la pantalla, no toques ni la Memory Card (tarjeta de memoria) de la Ranura A ni el Botón POWER."
+$NGC_MCNo,No,Nein,Non,No,No
+$NGC_MCNoCard,No Memory Card found in Slot A.,Keine Memory Card in Steckplatz A.,Aucune Memory Card (carte mémoire) n'est détectée dans le Slot A.,Nello Slot A non è inserita alcuna Memory Card (Scheda Memoria).,No hay Memory Card (tarjeta de memoria) en la Ranura A.
+$NGC_MCNoCardContinue,Continue without saving?,Ohne Speichern fortfahren?,Continuer sans sauvegarder ?,Vuoi proseguire senza salvare?,¿Continuar sin guardar?
+$NGC_MCNoCardLoad,No Memory Card found in Slot A.,Keine Memory Card in Steckplatz A.,Aucune Memory Card (carte mémoire) n'est détectée dans le Slot A.,Nello Slot A non è inserita alcuna Memory Card (Scheda Memoria).,No hay Memory Card (tarjeta de memoria) en la Ranura A.
+$NGC_MCNoSpace,"There is not enough free space on the Memory Card in Slot A. To save Finest Hour you need at least 1 file and 2 blocks.  To manage the contents of your Memory Card, use the Memory Card Screen.","Es befindet sich nicht genügend freier Platz auf der Memory Card in Steckplatz A. Finest Hour benötigt zum Speichern 1 Datei und 2 Blöcke. Bitte rufen Sie den Memory Card-Bildschirm auf, um die Inhalte Ihrer Memory Card zu verwalten. ","Il n'y a pas assez d'espace libre sur la Memory Card (carte mémoire) dans le Slot A. Call of Duty: Le jour de gloire nécessite 1 fichier et 2 blocs pour être sauvegardé. Pour gérer le contenu de votre Memory Card (carte mémoire), utilisez l'Ecran Memory Card (carte mémoire).",Lo spazio libero nella Memory Card (Scheda Memoria) nello Slot A è insufficiente. Per salvare L'ora degli Eroi sono necessari 1 file e 2 blocchi. Per organizzare i dati della Memory Card (Scheda Memoria) utilizza lo schermo Memory Card (Scheda Memoria).,"No hay suficiente espacio libre en la Memory Card (tarjeta de memoria) de la Ranura A. Para guardar datos de Finest Hour se requiere 1 archivo y 2 bloques. Para reorganizar el contenido de la Memory Card (tarjeta de memoria), ve a la pantalla Memory Card (tarjeta de memoria)."
+$NGC_MCNoSpaceContinue,There is not enough free space on the Memory Card in Slot A. To save Finest Hour you need at least 1 file and 2 blocks. ,Es befindet sich nicht genügend freier Platz auf der Memory Card in Steckplatz A. Finest Hour benötigt zum Speichern 1 Datei und 2 Blöcke.,Il n'y a pas assez d'espace libre sur la Memory Card (carte mémoire) dans le Slot A. Call of Duty: Le jour de gloire nécessite 1 fichier et 2 blocs pour être sauvegardé. ,Lo spazio libero nella Memory Card (Scheda Memoria) nello Slot A è insufficiente. Per salvare L'ora degli Eroi sono necessari 1 file e 2 blocchi.,No hay suficiente espacio libre en la Memory Card (tarjeta de memoria) de la Ranura A. Para guardar datos de Finest Hour se requiere 1 archivo y 2 bloques.
+$NGC_MCOK,OK,OK,OK,OK,ACEPTAR
+$NGC_MCOverwriteContinue,Overwrite the save file in Slot A?,Datei in Steckplatz A überschreiben?,Ecraser le fichier de sauvegarde du Slot A ?,Sovrascrivere il file di salvataggio nello Slot A?,¿Sobrescribir el archivo guardado de la Ranura A?
+$NGC_MCOverwriteFailed,Overwrite failed! Check Memory Card in Slot A ,Überschreiben gescheitert. Überprüfen Sie die Memory Card in Steckplatz A.,Echec de l'écrasement ! Vérifiez la Memory Card (carte mémoire) du Slot A.,Sovrascrittura fallita! Controllare la Memory Card (Scheda Memoria) nello Slot A.,¡Error al sobrescribir! Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCOverwriteFailedContinue,Overwrite failed! Memory Card in Slot A Continue without save ,Überschreiben gescheitert. Überprüfen Sie die Memory Card in Steckplatz A. Ohne Speichern fortfahren.,Echec de l'écrasement ! Vérifiez la Memory Card (carte mémoire) du Slot A. Continuer sans sauvegarder.,Sovrascrittura fallita! Controllare la Memory Card (Scheda Memoria) nello Slot A. Prosegui senza salvare,¡Error al sobrescribir! Comprueba la Memory Card (tarjeta de memoria) de la Ranura A. Continuar sin guardar
+$NGC_MCOverwriteNewContinue,Overwrite the save file in Slot A?,Datei in Steckplatz A überschreiben?,Ecraser le fichier de sauvegarde du Slot A ?,Sovrascrivere il file di salvataggio nello Slot A?,¿Sobrescribir el archivo guardado de la Ranura A?
+$NGC_MCOverwriteOK,Overwrite successful.,Überschreiben erfolgreich.,Ecrasement terminé.,Sovrascrittura completata.,Éxito al sobrescribir.
+$NGC_MCOverwriting,Overwriting data. Do not touch the Memory Card in Slot A or the POWER Button.,Überschreibt Daten. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Ecrasement des données en cours. Ne touchez pas à la Memory Card (carte mémoire) ni au bouton POWER.,Sovrascrittura dati. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Sobrescribiendo datos. No toques ni la Memory Card (tarjeta de memoria) de la Ranura A ni el Botón POWER.
+$NGC_MCRetry,Retry,Wiederholen,Réessayer,Riprova,Reintentar
+$NGC_MCSaveCorrupt,The Finest Hour file on Memory Card in Slot A is corrupted. This file needs to be deleted.,Die Finest Hour-Datei auf der Memory Card in Steckplatz A ist fehlerhaft. Die Datei muss gelöscht werden.,Le fichier de Call of Duty: Le jour de gloire sur la Memory Card (carte mémoire) dans le Slot A est corrompu. Ce fichier a besoin d'être effacé.,I dati di gioco di L'ora degli Eroi che vuoi caricare dalla Memory Card (Scheda Memoria) nello Slot A sono danneggiati e devono essere cancellati.,El archivo Finest Hour de la Memory Card (tarjeta de memoria) de la Ranura A está dañado. Hay que borrar este archivo.
+$NGC_MCSaveFailed,Save failed! Check Memory Card in Slot A ,Speichern gescheitert! Überprüfen Sie die Memory Card in Steckplatz A.,Echec de la sauvegarde ! Vérifiez la Memory Card (carte mémoire) du Slot A.,Salvataggio fallito! Controllare la Memory Card (Scheda Memoria) nello Slot A.,¡Error al guardar! Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCSaveFailedContinue,Save failed! Check Memory Card in Slot A ,Speichern gescheitert! Überprüfen Sie die Memory Card in Steckplatz A.,Echec de la sauvegarde ! Vérifiez la Memory Card (carte mémoire) du Slot A.,Salvataggio fallito! Controllare la Memory Card (Scheda Memoria) nello Slot A.,¡Error al guardar! Comprueba la Memory Card (tarjeta de memoria) de la Ranura A.
+$NGC_MCSaveOK,Save successful.,Speichern erfolgreich.,Sauvegarde terminée.,Salvataggio completato.,Éxito al guardar.
+$NGC_MCSaving,Saving to the Memory Card in Slot A. Do not touch the Memory Card in Slot A or the POWER Button.,Speichern auf Memory Card in Steckplatz A erfolgt. Bitte entfernen Sie nicht die Memory Card und betätigen Sie nicht den POWER-Schalter.,Sauvegarde en cours. Ne touchez pas à la Memory Card (carte mémoire) dans le Slot A ni au bouton POWER.,Salvataggio sulla Memory Card (Scheda Memoria) nello Slot A. Non toccare la Memory Card (Scheda Memoria) o il pulsante POWER.,Guardando en la Memory Card (tarjeta de memoria) de la Ranura A. No toques ni la Memory Card (tarjeta de memoria) de la Ranura A ni el Botón POWER.
+$NGC_MCUnformatted,The Memory Card in Slot A is corrupted and needs to be formatted. Do you want to format?,Die Memory Card in Steckplatz A ist fehlerhaft und muss formatiert werden. Soll sie jetzt formatiert werden?,La Memory Card (carte mémoire) dans le Slot A contient des données corrompues et a besoin d'être formatée. Voulez-vous la formater ?,La Memory Card (Scheda Memoria) nello Slot A contiene dati danneggiati e deve essere formattata. Vuoi formattare?,La Memory Card (tarjeta de memoria) de la Ranura A contiene datos dañados y hay que formatearla. ¿Quieres formatear?
+$NGC_MCUnknownDevice,Wrong device in Slot A. Please insert a Memory Card.,Das Objekt in Steckplatz A wird nicht als Memory Card anerkannt. Bitte stecken Sie eine Memory Card ein.,L'objet inséré dans le Slot A n'est pas valide. Remplacez-le par une Memory Card (carte mémoire).,L'oggetto presente nello Slot A non è idoneo. Inserisci una Memory Card (Scheda Memoria) idonea.,Dispositivo erróneo en Ranura A. Inserta una Memory Card (tarjeta de memoria).
+$NGC_MCWrongVersion,Save file is wrong version. Overwrite?,Datei hat die falsche Version. Überschreiben?,Mauvaise version du fichier de sauvegarde. Voulez-vous l'écraser ?,La versione del file di salvataggio è sbagliata. Vuoi sovrascrivere?,El archivo guardado es de otra versión. ¿Sobrescribir?
+$NGC_MCYes,Yes,Ja,Oui,Sì,Sí
+$NGC_NoControllerText,,,,,
+$NGC_NoControllerTitle,,,,,
+$NGC_ProgressiveTest,,,,,
+$NGC_ProgressiveTestCancel,,,,,
+$NGC_ProgressiveTestOK,,,,,
+$NGC_ProgressiveWarning,,,,,
+$NGC_VibrationSet,Rumble:,Rumble:,Vibration :,Rumble:,Vibración:
+$NGC_YankControllerText,,,,,
+$NGC_YankControllerTitle,,,,,

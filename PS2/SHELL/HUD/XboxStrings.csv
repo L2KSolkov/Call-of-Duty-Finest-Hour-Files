@@ -1,0 +1,33 @@
+language,English,German,French,Italian,Spanish
+_Insert_Controller_1,Please reconnect controller %d,Bitte den Controller wieder anschließen %d,Veuillez réinsérer une manette %d,Inserisci il controller %d,Volver a conectar el controlador %d
+_Insert_Controller_2,and press START to continue.,anschließen und START drücken.,et appuyer sur START.,e premi START per continuare.,y presionar START para continuar.
+_Quit_Question,Are you sure you want to quit?,Möchten Sie das Spiel wirklich beenden?,Voulez-vous vraiment quitter ?,Vuoi abbandonare la partita?,¿Seguro que quieres abandonar?
+_Restart_Question,Are you sure you want to restart?,Möchten Sie wirklich neu starten?,Voulez-vous vraiment recommencer ?,Sei sicuro di voler riavviare?,¿Seguro que quieres reiniciar?
+_Unsaved_Lost,All unsaved progress will be lost.,Nicht gespeicherte Fortschritte gehen verloren.,Toute progression non sauvegardée sera perdue.,Tutti i progressi non salvati andranno persi.,Se perderán todos los progresos sin guardar.
+_Loading,Loading…..,Laden ...,Chargement en cours...,Caricamento in corso…,Cargando...
+_Xbox_Live_Options,Xbox Live Options,Xbox Live-Optionen,Options Xbox Live,Opzioni Xbox Live,Opciones de Xbox Live
+_Invert_Aim,Invert Aim,Zielen umkehren,Inverser visée,Inverti mira,Invertir puntería
+_Xbox_Live_Cant_Connect_1,Your Xbox console cannot connect to Xbox Live,Xbox kann keine Verbindung mit Xbox Live aufbauen. Drücken Sie,La console Xbox ne peut pas se connecter à Xbox Live. Appuyer,La tua console Xbox non può connettersi al Xbox Live Premi,La consola Xbox no puede conectarse a Xbox Live Presionar
+_Xbox_Live_Cant_Connect_2,Press $ms$ to start the troubleshooter or $mc$ to cancel,"$ms$, um die Fehlerbehebung zu starten oder $mc$, um abzubrechen.",sur $ms$ pour lancer l'outil de dépannage ou sur $mc$ pour annuler. ,$ms$ per avviare la risoluzione dei problemi o $mc$ per annullare,$ms$ para to iniciar la solución de problemas o $mc$ para cancelar
+_Signed_In,Signed In,Angemeldet,Connecté,Connesso,Se ha entrado
+_Sign_In_Failed,Sign In Failed,Anmelden gescheitert,Echec de la connexion,Connessione fallita,Fallo al entrar
+_Pass_Code_Needed,Pass Code Needed,Code erforderlich,Code d'accès nécessaire,Codice d'accesso richiesto,Se necesita código de acceso
+_Not_Signed_In,Not Signed In,Nicht angemeldet,Non connecté,Non connesso,No has entrado
+_Continue,Continue,Fortsetzen,Continuer,Continua,Continuar
+_Friends_List,Friends List,Freundesliste,Liste d'Amis,Lista degli amici,Lista de amigos
+_Appear_Offline,Appear Offline,Offline erscheinen,Apparaître hors ligne,Appari offline,Aparecer desconectado
+_Appear_Online,Appear Online,Online erscheinen,Apparaître en ligne,Appari online,Figurar en línea
+_Signing_In,Signing In,Anmelden…,Connexion en cours…,Connessione in corso…,Conectando…
+_Important_Xbox_Message_1,You have an important message from Xbox Live,Xbox Live hat eine wichtige Nachricht für Sie.,Vous avez reçu un message important de Xbox Live.,Messaggio importante da Xbox Live.,Tiene un mensaje importante de Xbox Live
+_Important_Xbox_Message_2,Press $ms$ to read the message,"Drücken Sie $ms$, um die Nachricht zu lesen.",Appuyer sur $ms$ pour lire ce message.,Premi $ms$ per leggere il messaggio.,Presione $ms$ para leerlo. 
+_Xbox_Multiple_Accounts_1,You were signed out of Xbox Live because,"Sie wurden aus Xbox Live abgemeldet, ","Vous avez été déconnecté de Xbox Live, ",Sei stato disconnesso da Xbox Live ,Se ha cerrado tu sesión de 
+_Xbox_Multiple_Accounts_2,another person signed on using your account.,weil sich eine andere Person mithilfe ,car une autre personne s'est connectée en utilisant votre compte.,perché un altro utente si è,Xbox Live porque otra persona 
+_Xbox_Multiple_Accounts_3,Press $ms$ to continue.,Ihres Kontos angemeldet hat.,Appuyer sur $ms$ pour continuer.,connesso utilizzando il tuo account.,inició una sesión con tu cuenta.
+_Sign_In,Sign In,Anmelden,Se connecter,Connetti,Entrar
+_Sign_Out,Sign Out,Abmelden,Se déconnecter,Disconnetti,Salir
+_Verify_Leave_Session_1,Leaving the game now will end this session.,"Wenn Sie das Spiel jetzt verlassen, wird diese Sitzung beendet. ","Si vous quittez le jeu maintenant, cette session sera terminée.","Se esci dal gioco ora, la sessione verrà terminata.","Si abandona la partida ahora, se terminará la sesión."
+_Verify_Leave_Session_2,Are you sure you want to leave?,Jetzt verlassen?,"Êtes-vous sûr de vouloir quitter ?
+",Vuoi uscire dal gioco?,¿Seguro que desea abandonarla?
+_Yes,Yes,Ja,Oui,Si,Si
+_No,No,Nein,Non,No,No
+_Yes_No,$ms$ Yes  $mc$ No,$ms$ Ja  $mc$ Nein,$ms$ Oui  $mc$ Non,$ms$ Si  $mc$ No,$ms$ Si  $mc$ No
